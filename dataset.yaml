@@ -1,0 +1,6 @@
+train: D:/xla/001/001/dataset/images/train
+val: D:/xla/001/001/dataset/images/val
+test: D:/xla/001/001/dataset/test
+
+nc: 1  # number of classes
+names: ['license_plate']  # class names
